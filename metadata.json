@@ -1,0 +1,7 @@
+{
+  "name": "Weather Now",
+  "description": "A sleek, modern weather application that provides real-time weather conditions for any city in the world. It also fetches the weather for your current location on startup.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
